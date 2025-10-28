@@ -1,0 +1,5 @@
+{
+  "name": "PlaceGPT",
+  "description": "An AI-powered, zero-human-ops placement accelerator for Tier-2/3 engineering colleges. This application provides a dashboard for Training and Placement Officers (TPOs) to manage student data, match students with jobs, and automate the entire placement lifecycle.",
+  "requestFramePermissions": []
+}
